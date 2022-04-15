@@ -1,0 +1,14 @@
+"Part";"Value";"Device";"Package";"Description";"AVAILABILITY";"COPYRIGHT";"DESCRIPTION";"HEIGHT";"MANUFACTURER_NAME";"MANUFACTURER_PART_NUMBER";"MF";"MFR_NAME";"MOUSER_PART_NUMBER";"MOUSER_PRICE-STOCK";"MP";"PACKAGE";"PRICE";"PROD_ID";"PURCHASE-URL";"VALUE";
+"C1";"0.1uF";"0.1UF-0603-25V-(+80/-20%)";"0603";"0.1µF ceramic capacitors";"";"";"";"";"";"";"";"";"";"";"";"";"";"CAP-00810";"";"0.1uF";
+"C2";"0.1uF";"0.1UF-0603-25V-(+80/-20%)";"0603";"0.1µF ceramic capacitors";"";"";"";"";"";"";"";"";"";"";"";"";"";"CAP-00810";"";"0.1uF";
+"D1";"BLUE";"LED-BLUE0603";"LED-0603";"Blue SMD LED";"";"";"";"";"";"";"";"";"";"";"";"";"";"DIO-08575";"";"BLUE";
+"H1";"STM32G031F6P6";"STM32G031F6P6";"SOP65P640X120-20N";"ARM Microcontrollers - MCU";"";"";"ARM Microcontrollers - MCU";"1.2mm";"STMicroelectronics";"STM32G031F6P6";"";"";"511-STM32G031F6P6";"https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G031F6P6?qs=uwxL4vQweFMdKaWlN0gXiw%3D%3D";"";"";"";"";"";"";
+"J1";"";"CONN_05";"1X05";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"J2";"";"QWIIC_CONNECTORJS-1MM";"1X04_1MM_RA";"SparkFun I2C Standard Qwiic Connector";"";"";"";"";"";"";"";"";"";"";"";"";"";"CONN-13694";"";"";
+"J3";"1012";"1012";"1012";"Cylindrical Battery Contacts, Clips, Holders & Springs SM BATT HOLDER (2)AA";"In Stock";"";" SMT Holder for AA Battery ";"";"";"";"Keystone Electronics";"";"";"";"1012";"None";"None";"";"https://pricing.snapeda.com/search/part/1012/?ref=eda";"";
+"J4";"";"CONN_04";"1X04";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"";"";"";"";"";"";"";"CONN-09696";"";"";
+"Q1";"2.5A/30V/105mΩ";"MOSFET_PCH-DMG2307L";"SOT23-3";"P-channel MOSFETs";"";"";"";"";"";"";"";"";"";"";"";"";"";"TRANS-11308";"";"2.5A/30V/105mΩ";
+"R1";"2.2k";"2.2KOHM-0603-1/10W-1%";"0603";"2.2kΩ resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";"RES-08272";"";"2.2k";
+"R2";"2.2k";"2.2KOHM-0603-1/10W-1%";"0603";"2.2kΩ resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";"RES-08272";"";"2.2k";
+"R3";"220";"220OHM-0603-1/10W-1%";"0603";"220Ω resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";"RES-07861";"";"220";
+"U1";"LSM6DSO32TRLGA-14L_2P5X3X0P83_STM-M";"LSM6DSO32TRLGA-14L_2P5X3X0P83_STM-M";"LGA-14L_2P5X3X0P83_STM-M";"";"";"Copyright (C) 2022 Ultra Librarian. All rights reserved.";"";"";"";"LSM6DSO32TR";"";"STMicroelectronics";"";"";"";"";"";"";"";"";
